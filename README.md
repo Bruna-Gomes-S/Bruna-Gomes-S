@@ -1,3 +1,4 @@
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=71&fontColor=FFFFFF&fontAlign=84&fontAlignY=50&rotate=4&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
@@ -41,7 +42,7 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/brunagomessilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/brunagomessilva/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
   </a>
   <a href="gomes.sb00@gmail.com" target="_blank">
@@ -75,9 +76,6 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=86&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
 </div>
 
 ###
