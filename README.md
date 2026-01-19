@@ -4,9 +4,9 @@
 ### Sobre Mim
 * 💡 Oi! Sou a Bruna, aspirante a programadora, aprendendo e crescendo a cada dia em resolver problemas através do código. Sou focada em **Java**, **Spring Boot**, **SQL**, **Git** e **Desenvolvimento Web**.
 * 👩‍💻 Construo projetos para desenvolver minhas habilidades e mostrar minha jornada.
-* 🔭 Atualmente trabalhando em projetos mobile.
-* 🌱 Estudando no momento: **Dart,Flutter e Mysql**.
-* 🎧 Nas horas vagas: Programação, Músicas, Séries, Filmes ,Livros e Games.
+* 🔭 Atualmente trabalhando em projetos mobile .
+* 🌱 Estudando no momento: **Modelagem de Dados**.
+* 🎧 Nas horas vagas: Músicas, Séries, Livros e Games.
 
 ---
 ### 🛠 Tecnologias e Ferramentas
